@@ -1,0 +1,181 @@
+src/hora/hora.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'hora' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/hora/hora.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/hora/hora.java:3:	ShortClassName:	ShortClassName: Avoid short class names like hora
+src/hora/hora.java:4:	AvoidFieldNameMatchingTypeName:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/hora/hora.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/hora/hora.java:4:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/hora/hora.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'hora(int, int)'
+src/hora/hora.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'hora' is not assigned and could be declared final
+src/hora/hora.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'minutos' is not assigned and could be declared final
+src/hora/hora.java:8:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: hora.sethora(int) 
+src/hora/hora.java:9:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/hora/hora.java:11:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: hora.setminutos(int) 
+src/hora/hora.java:12:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/hora/hora.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/hora/hora.java:17:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/hora/hora.java:20:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/hora/hora.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/hora/hora.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'minutos' is not assigned and could be declared final
+src/hora/hora.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/hora/hora.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'hora' is not assigned and could be declared final
+src/hora/hora.java:42:	MissingOverride:	MissingOverride: The method 'toString()' is missing an @Override annotation.
+src/tercera/Usuario.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/Usuario.java:3:	DataClass:	DataClass: The class 'Usuario' is suspected to be a Data Class (WOC=14.286%, NOPA=0, NOAM=6, WMC=8)
+src/tercera/Usuario.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/Usuario.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/Usuario.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/Usuario.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/Usuario.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'apellido' is not assigned and could be declared final
+src/tercera/Usuario.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'edad' is not assigned and could be declared final
+src/tercera/Usuario.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/tercera/Usuario.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/tercera/Usuario.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'apellido' is not assigned and could be declared final
+src/tercera/Usuario.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'edad' is not assigned and could be declared final
+src/tercera/Usuario.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/Usuario.java:40:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/Usuario.java:41:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/Usuario.java:42:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/animal.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'animal' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/animal.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/animal.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/animal.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/animal.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/animal.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/tercera/animal.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/animal.java:11:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/animal.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/animal.java:14:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/animal1.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'animal1' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/animal1.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/animal1.java:3:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/tercera/animal1.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/animal1.java:6:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'migato' could be declared final
+src/tercera/bombilla.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'bombilla' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/bombilla.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/bombilla.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/bombilla.java:4:	LongVariable:	LongVariable: Avoid excessively long variable names like interruptorGeneral
+src/tercera/bombilla.java:4:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/tercera/bombilla.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/bombilla.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/bombilla.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/bombilla.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/bombilla.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/bombilla.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/cat.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'cat' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/cat.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/cat.java:3:	ShortClassName:	ShortClassName: Avoid short class names like cat
+src/tercera/cat.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/cat.java:4:	ImmutableField:	ImmutableField: Field 'edad' may be declared final
+src/tercera/cat.java:4:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'edad'.
+src/tercera/cat.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/cat.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'edad' is not assigned and could be declared final
+src/tercera/cat.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/tercera/cat.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/cat.java:11:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'cuenta' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/cuenta.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/cuenta.java:4:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'dni'
+src/tercera/cuenta.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/cuenta.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/cuenta.java:6:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'saldo'
+src/tercera/cuenta.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/cuenta.java:7:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'gestor'
+src/tercera/cuenta.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/cuenta.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/cuenta.java:9:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'setBanco(String)'
+src/tercera/cuenta.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nuevoNombre' is not assigned and could be declared final
+src/tercera/cuenta.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'getBanco()'
+src/tercera/cuenta.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'cuenta(String, String)'
+src/tercera/cuenta.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dni' is not assigned and could be declared final
+src/tercera/cuenta.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/tercera/cuenta.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'cuenta(String, double)'
+src/tercera/cuenta.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dni' is not assigned and could be declared final
+src/tercera/cuenta.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'saldo' is not assigned and could be declared final
+src/tercera/cuenta.java:27:	IdempotentOperations:	IdempotentOperations: Avoid idempotent operations (like assigning a variable to itself).
+src/tercera/cuenta.java:33:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'cuenta(String, String, double)'
+src/tercera/cuenta.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dni' is not assigned and could be declared final
+src/tercera/cuenta.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/tercera/cuenta.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'saldo' is not assigned and could be declared final
+src/tercera/cuenta.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'cuenta(String, String, gestor)'
+src/tercera/cuenta.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dni' is not assigned and could be declared final
+src/tercera/cuenta.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gestor' is not assigned and could be declared final
+src/tercera/cuenta.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/tercera/cuenta.java:44:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'setgestor(gestor)'
+src/tercera/cuenta.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gestor' is not assigned and could be declared final
+src/tercera/cuenta.java:50:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'egreso(double)'
+src/tercera/cuenta.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cant' is not assigned and could be declared final
+src/tercera/cuenta.java:56:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:59:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/tercera/cuenta.java:61:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'ingreso(double)'
+src/tercera/cuenta.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cant' is not assigned and could be declared final
+src/tercera/cuenta.java:64:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'mostrarInformación()'
+src/tercera/cuenta.java:64:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'mostrarInformación' doesn't match '[a-z][a-zA-Z0-9]*'
+src/tercera/cuenta.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:66:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:67:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:69:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'mostrarInformacion()'
+src/tercera/cuenta.java:71:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:73:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:76:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:77:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:78:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta.java:79:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/cuenta1.java:2:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the current package 'tercera.cuenta'
+src/tercera/cuenta1.java:5:	ClassNamingConventions:	ClassNamingConventions: The class name 'cuenta1' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/cuenta1.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/cuenta1.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/tercera/cuenta1.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/cuenta1.java:7:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tercera/cuenta1.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like c1
+src/tercera/cuenta1.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like c2
+src/tercera/cuenta1.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like c3
+src/tercera/cuenta1.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'g1' could be declared final
+src/tercera/cuenta1.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like g1
+src/tercera/cuenta1.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'g2' could be declared final
+src/tercera/cuenta1.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like g2
+src/tercera/cuenta1.java:9:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12000.0 should separate every third digit with an underscore
+src/tercera/gestor.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'gestor' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/gestor.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/gestor.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/gestor.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/gestor.java:6:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'importeMax'
+src/tercera/gestor.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/gestor.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/gestor.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/tercera/gestor.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'tlf' is not assigned and could be declared final
+src/tercera/gestor.java:7:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused constructor parameters such as 'importMax'.
+src/tercera/gestor.java:10:	IdempotentOperations:	IdempotentOperations: Avoid idempotent operations (like assigning a variable to itself).
+src/tercera/gestor.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/gestor.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/tercera/gestor.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'tlf' is not assigned and could be declared final
+src/tercera/gestor.java:13:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000.0 should separate every third digit with an underscore
+src/tercera/gestor.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'gettlf()'
+src/tercera/gestor.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'mostrarInformación()'
+src/tercera/gestor.java:18:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'mostrarInformación' doesn't match '[a-z][a-zA-Z0-9]*'
+src/tercera/gestor.java:19:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/gestor.java:20:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/gestor.java:21:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'luz' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/luz.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/luz.java:3:	ShortClassName:	ShortClassName: Avoid short class names like luz
+src/tercera/luz.java:3:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/tercera/luz.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/tercera/luz.java:7:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tercera/luz.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like b1
+src/tercera/luz.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like b2
+src/tercera/luz.java:12:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:13:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:15:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:16:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:17:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:19:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:20:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/luz.java:21:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/tercera/thiss.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/tercera/thiss.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'thiss' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tercera/thiss.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/tercera/thiss.java:4:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'edad'
+src/tercera/thiss.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/tercera/thiss.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'metodo()'
+src/tercera/thiss.java:6:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'edad'.
+src/tercera/thiss.java:7:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'edad' is never used
